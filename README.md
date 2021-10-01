@@ -11,9 +11,10 @@ You can click the Preview link to take a look at your changes.
 ---
   CURRENT PROJECT 
 ---
+###### Link
 
-[THE_SWIFT_PROJECT]( https://theswiftproject.herokuapp.com) 
--
+[visit==>THE_SWIFT_PROJECT]( https://theswiftproject.herokuapp.com) 
+
 *a set of applications and powerfull tools that help manage businesses*
   
 --
@@ -26,15 +27,18 @@ You can click the Preview link to take a look at your changes.
 ---
   # PREVIOUS PROJECTS
 ---
- -
+ 
  ## AVP MANAGEMENT PROJECT
- -
+ 
  * a therapy program recruitment and management system. *
  ###### Link
  [AVP PROGRAM ](HTTPS://WWW.AVOIDANTS.ORG)
- -
+ 
  ![DASHBOARD]( /gallery/homepage.PNG)
- -
+ 
+ ---
+  #*Tyler 2021*
+ ---
  
 
 
