@@ -18,6 +18,7 @@ tylerjay254/tylerjay254 is a ✨ special ✨ repository; no one in the universe 
 | cloudservices | -aws -heroku\-google CP | -1yr -1yr -1yr  |
 | microservices | rabbitmQ | 1yr|
 | containerization & orchestration| -docker & dockerswarm -kubernetes | 1 yrs (each) |
+| <ul><li>item1</li><li>item2</li></ul> |  <ul><li>item1</li><li>item2</li></ul>| 
 
 ---
   CURRENT PROJECT 
