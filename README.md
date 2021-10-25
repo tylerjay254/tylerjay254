@@ -12,13 +12,13 @@ tylerjay254/tylerjay254 is a ✨ special ✨ repository; no one in the universe 
 ---
 | FIELD | TECH | EXPERIENCE |
 | :---: | :---:| :---:      |
-| programing | -PYTHON -JAVASCRIPT -GOLANG | - 4YRS -4YRS -ONGOING|
-| databases  |-GRAPHQL (NEO4J) -SQL (mySQL, posgresql) -NoSQL (MongoDB)| -2yrs -3yrs -3yrs|
-| web frameworks | -Django -React -flask | -3yrs -1yr -3yrs |
-| cloudservices | -aws -heroku\-google CP | -1yr -1yr -1yr  |
+| programing |  <ul><li>-PYTHON</li><li>-JAVASCRIPT</li><li> -GOLANG</li></ul>  |<ul><li>- 4YRS</li><li>-4YRS</li><li> -ONGOING</li></ul>|
+| databases  |  <ul><li>-GRAPHQL (NEO4J)</li><li> -SQL (mySQL, posgresql)</li><li> -NoSQL (MongoDB)</li></ul>|<ul><li>--2yrs</li><li>-3yrs</li><li> -3yrs</li></ul>|
+| web frameworks |   <ul><li> -Django</li><li>-React</li><li>-flask</li></ul> | <ul><li>-3yrs</li><li>-1yr</li><li> -3yrs</li></ul> |
+| cloudservices |  <ul><li>-aws</li><li> -heroku</li><li> -google CP</li></ul>| <ul><li>-1yr</li><li>-1yr</li><li> -1yr</li></ul> |
 | microservices | rabbitmQ | 1yr|
-| containerization & orchestration| -docker & dockerswarm -kubernetes | 1 yrs (each) |
-| <ul><li>item1</li><li>item2</li></ul> |  <ul><li>item1</li><li>item2</li></ul>| 
+| containerization & orchestration| <ul><li>-docker & dockerswarm</li><li> -kubernetes </li>></ul> | 1 yrs (each) |
+
 
 ---
   CURRENT PROJECT 
