@@ -17,7 +17,7 @@ tylerjay254/tylerjay254 is a ✨ special ✨ repository; no one in the universe 
 | web frameworks |   <ul><li> -Django</li><li>-React</li><li>-flask</li></ul> | <ul><li>-3yrs</li><li>-1yr</li><li> -3yrs</li></ul> |
 | cloudservices |  <ul><li>-aws</li><li> -heroku</li><li> -google CP</li></ul>| <ul><li>-1yr</li><li>-1yr</li><li> -1yr</li></ul> |
 | microservices | rabbitmQ | 1yr|
-| containerization & orchestration| <ul><li>-docker & dockerswarm</li><li> -kubernetes </li>></ul> | 1 yrs (each) |
+| containerization & orchestration| <ul><li>-docker & dockerswarm</li><li> -kubernetes </li></ul> | 1 yrs (each) |
 
 
 ---
