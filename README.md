@@ -11,7 +11,7 @@ tylerjay254/tylerjay254 is a ✨ special ✨ repository; no one in the universe 
 💻 TECHNOLOGIES 💻
 ---
 | FIELD | TECH | EXPERIENCE |
-| :---: | :---:| :---:      |
+| :---: |:---|:---      |
 | programing |  <ul><li>-PYTHON</li><li>-JAVASCRIPT</li><li> -GOLANG</li></ul>  |<ul><li>- 4YRS</li><li>-4YRS</li><li> -ONGOING</li></ul>|
 | databases  |  <ul><li>-GRAPHQL (NEO4J)</li><li> -SQL (mySQL, posgresql)</li><li> -NoSQL (MongoDB)</li></ul>|<ul><li>--2yrs</li><li>-3yrs</li><li> -3yrs</li></ul>|
 | web frameworks |   <ul><li> -Django</li><li>-React</li><li>-flask</li></ul> | <ul><li>-3yrs</li><li>-1yr</li><li> -3yrs</li></ul> |
