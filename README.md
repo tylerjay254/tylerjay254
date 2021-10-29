@@ -11,9 +11,9 @@ tylerjay254/tylerjay254 is a ✨ special ✨ repository; no one in the universe 
 💻 TECHNOLOGIES 💻
 ---
 ---
-|---#PROGRAMING---|
+#PROGRAMING
 ---
-
+![PYTHON](gallery/Python-3.10-Know-the-Exciting-Features-in-the-Latest-Python-Version-removebg-preview.png) ![JAVASCRIPT](gallery/javascript-developer-tips-removebg-preview.png)
 
 ---
   CURRENT PROJECT 
